@@ -31,6 +31,6 @@
 ---
 
 ## 📫 Контакты
-- Telegram: [@PavelKhromykhGo](https://t.me/PavelKhromykhGo)  
+- Telegram: [@GoXomyak](https://t.me/GoXomyak)  
 - Email: pavel.khromykh.go@yandex.ru
 
