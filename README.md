@@ -25,11 +25,6 @@
 
 ---
 
-## 📊 GitHub Статистика
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelKhromykhGo&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Контакты
 - Telegram: [@GoXomyak](https://t.me/GoXomyak)  
 - Email: pavel.khromykh.go@yandex.ru
