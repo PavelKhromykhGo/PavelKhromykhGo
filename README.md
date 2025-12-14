@@ -37,7 +37,7 @@
 ---
 
 ## 🛒 Мои проекты
-- [**URL Shortener**](https://github.com/PavelKhromykhGo/url_shortener) — сервис сокращения ссылок с авторизацией, редиректами, хранением статистики переходов и обкаткой очередей. 
+- [**URL Shortener**](https://github.com/PavelKhromykhGo/url-shortener) — сервис сокращения ссылок с авторизацией, редиректами, хранением статистики переходов и обкаткой очередей. 
   Реализованы:
   - чистая архитектура (**handler → service → repository**)
   - PostgreSQL
